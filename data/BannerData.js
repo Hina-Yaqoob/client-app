@@ -4,7 +4,7 @@ export const BannerData = [
     coverImageUri:
       "https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270_1280.jpg",
     cornerLabelColor: "#FFD300",
-    cornerLabelText: "GO",
+    cornerLabelText: "GOTo",
   },
   {
     _id: 2,
